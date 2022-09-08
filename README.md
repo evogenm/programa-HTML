@@ -1,9 +1,50 @@
-# programa-HTML
-feito para testes 
-<!doctype html>
-<html mozNoMarginBoxes>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>programa-HTML | feito para testes</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="programa-HTML" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="feito para testes" />
+<meta property="og:description" content="feito para testes" />
+<link rel="canonical" href="https://evogenm.github.io/programa-HTML/" />
+<meta property="og:url" content="https://evogenm.github.io/programa-HTML/" />
+<meta property="og:site_name" content="programa-HTML" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="programa-HTML" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"feito para testes","headline":"programa-HTML","name":"programa-HTML","url":"https://evogenm.github.io/programa-HTML/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/programa-HTML/assets/css/style.css?v=2affc82f82c2393408169664e67c266987491a53">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/programa-HTML/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+
+      <h1 id="programa-html">programa-HTML</h1>
+<p>feito para testes 
+&lt;!doctype html&gt;</p>
+<html moznomarginboxes="">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title></title>
 </head>
 <body>
@@ -98,8 +139,7 @@ feito para testes
         <path stroke-width="4" d="M 23.776412907378838 7.7254248593736845 A 25 25 0 0 0 1.5308084989341915e-15 -25"></path>
       </svg>
     </div>
-    <svg
-      xmlns="http://www.w3.org/2000/svg" viewBox="-27 -27 54 54" class="static-wsr-loader-dark-arc-nh36">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-27 -27 54 54" class="static-wsr-loader-dark-arc-nh36">
       <path stroke-width="4" d="M 23.776412907378838 7.7254248593736845 A 25 25 0 0 0 1.5308084989341915e-15 -25"></path>
     </svg>
   </div>
@@ -110,8 +150,8 @@ feito para testes
 
   </div>
   
-  <script src="//static.parastorage.com/services/cookie-consent-policy-client/1.717.0/app.bundle.min.js" crossorigin></script>
-  <script src="//static.parastorage.com/services/tag-manager-client/1.427.0/hostTags.bundle.min.js" crossorigin></script>
+  <script src="//static.parastorage.com/services/cookie-consent-policy-client/1.717.0/app.bundle.min.js" crossorigin=""></script>
+  <script src="//static.parastorage.com/services/tag-manager-client/1.427.0/hostTags.bundle.min.js" crossorigin=""></script>
 
   <script>
   // polyfill performance.now
@@ -139,3 +179,12 @@ feito para testes
     // TODO: Add global onerror handler and possibly more context data to scope.
   }
 </script>
+</body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
